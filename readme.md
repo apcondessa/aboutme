@@ -3,53 +3,50 @@
 	<head>
     <h1>Ana Condessa's about</h1>
   </head>
-    <p>I have extensive professional experience with customer service in English, Portuguese and Spanish in all the companies I worked for and that is always studying to be ahead.</p>
-    <p>In addition, I had the opportunity to work on relevant international and national projects, dealing with constant process updates.</p>
-    <p>I'm dynamic and focused, I also have an analytical profile and I intend to best meet the needs of clients, the company and my career</p>
+    <p>Customer Success and Customer Service professional with extensive experience supporting clients in English, Portuguese, and Spanish across multiple companies and international projects.</p>
+	<p>I’m continuously studying and evolving to stay ahead, especially in data, technology, and process optimization.</p>
+	<p>I’ve worked on both national and international projects, often in fast-paced environments with constant process updates.</p> 
+	<p>I’m dynamic, focused, and analytical, always aiming to balance client needs, business goals, and long-term growth.</p>
+    <p>II enjoy working in collaborative, inclusive, and data-driven cultures where people have autonomy, clear communication, and space to build together.</p>
   
   <h2>My Strengths</h2>
-  <h3>Creative</h3> 
-  <p>In every role I’m working for I always search for innovative ideas and ways to perform thinks better thinking about the health of the company and its clients</p>
+  <h3>Creative/h3> 
+  <p>I consistently look for innovative ways to improve processes, products, and experiences, always considering the health of the company and its clients.</p>
   <h3>Client Focus</h3>
-  <p>In my first job and ever since I have being recognized for acknowledged by acting on client/company interest</p>
+  <p>Since my first role, I’ve been recognized for acting in the best interest of both clients and the business, building trust and long-term relationships.</p>
   <h3>Data driven</h3>
-  <p>Alwasys where I worked I have used data in my favor and demonstrated in projects the results driven by it</p>
+  <p>I rely on data to guide decisions and have demonstrated measurable results through projects and continuous improvement initiatives.</p>
 
-  <h4>Ideal Culture</h4>
-  <p>Being in a plural and inclusive environment, which is also driven by data and people. I rather be at a company focused on teamwork, collaborative and with some autonomy, with easy and more direct communication</p>
-
-  <h3>Projects I worked for:</h3>
+  <h3>🧠 Projects & Initiatives</h3>
   <p>GamaAcademy, Startupweekend, Megahackwoman,  Hackathon Zenvia da Shawee  e alguns outros eventos. Diversos projetos os principais deles descritos abaixo:</p>
   
-  <h5>Mais Tempo</h5>
-  <p>When: Set. 2020</p>
-  <p>Mais tempo was developed for Shawee's Hackathon Zenvia and was chosen among the 10 best projects at the event. We developed the entire project and it was among the best for providing a solution to the user to reduce time in automatic service. 
-  URL: https://youtu.be/emarbbyWSdQ</p>
+  <h5>🚀 Mais Tempo — Sep 2020</h5>
+  <p>MProject developed during Shawee’s Hackathon Zenvia, selected among the Top 10 projects. Focused on reducing user time in automated customer service through smarter flows./p>
+   <p>🎥 Demo: https://youtu.be/emarbbyWSdQ </p>
   
-  <h5>DevPrev Mega Hack Women</h5>
-  <p>When: Ago. 2020</p>
-  <p>Project developed for the Mega Hack Women vitall challenge for the health sector. URL: https://www.youtube.com/watch?v=6En18QaK048</p>
+  <h5>🏥 DevPrev — Mega Hack Women — Aug 2020/h5>
+  <p>Health-sector project developed for the Mega Hack Women – Vital Challenge.
+   <p>🎥 Demo: https://www.youtube.com/watch?v=6En18QaK048</p>
   
-  <h5>CHEF FIT</h5>
-  <p>When: Dez. 2019</p>
-  <p>Abrigo Balaio de Gato is an institution whose mission is to give a home to abandoned dogs and cats, take care of them and provide for the adoption of pets by new, responsible, loving owners. Currently, more than 30 dogs and 130 cats are supported and cared for by 
-  the shelter. The shelter's main demands today are raising resources, both financial and material, and improving its digital presence.</p>
-  <h6>Results obtained:</h6>
-   <p>We developed an institutional video and held an event to raise funds and help with the adoption of animals for the Shelter.</p>
-	<ul>- 17 tickets were sold for the event (created by the Sympla website) which took place at Petz Pampulha from 10am to 2pm.</ul>
- 	<ul>- The amount raised through ticket sales at Sympla was R$ 360.00. At the event, 4 animals were adopted: 4 (3 cats and 1 dog).</ul>
-	<ul>- We donated 8 sachets for the kittens.</ul>
-	<ul>- The shelter's volunteers were able to sell calendars and other items at the event and raise an additional R$334.00</ul>
- 
-   <h5>Propagou Eventos</h5>
-   <p>When: Nov. 2019</p>
-   <p>Fictitious company created for Gama Academy's task as an initiative aimed at promoting events. Our goal was to promote an event related to the persona of a chosen startup company. The fictitious company created had an informational nature, with the aim of 
-   disseminating and promoting knowledge for people who wish to seek solutions to improve their lives via the internet. URL: https://www.instagram.com/propagoueventos/?hl=pt-br</p>
+  <h5>🐶 CHEF FIT — Dec 2019</h5>
+  <p>Social impact project supporting Abrigo Balaio de Gato, an animal shelter caring for over 160 dogs and cats.</p>
+  <h6>Results:</h6>
+   <p>Institutional video production
 
-   <h5>Super Lucro</h5>
-   <p>When: Out.2019 </p>
+  <p>Fundraising and adoption event at Petz Pampulha</p>
+ <ul>
+  <li>17 tickets sold (R$360 raised via Sympla)</li>
+  <li>4 animals adopted (3 cats, 1 dog)</li>
+  <li>Additional R$334 raised on-site/</li>
+  <li>Donation of pet food and supplies</li>
+</ul>
+	 
+   <h5>📣 Propagou Eventos — Nov 2019</h5>
+   <p></p>Lead generation project developed at Gama Academy, focused on pre-qualified leads for a startup persona.</p> 
+	 <p>Instagram: https://www.instagram.com/super_lucro/</p>
+
+   <h5>📊 Super Lucro — Oct 2019h5>
    <p>Fictitious company created for a project developed at Gama Academy with the aim of generating pre-qualified leads for the same persona as the chosen startup company, using its own brand. URL: https://www.instagram.com/super_lucro/</p>
 
-   <h5>Stop bullying</h5>
-   <p>When: September 13th 2018</p>
-   <p>Startup Weekend Project with an initiative to help reduce bullying in schools</p>
+   <h5>🎓 Stop Bullying — Sep 2018</h5>
+   <p>Startup Weekend project aimed at reducing bullying in schools through awareness and prevention initiatives.s</p>
