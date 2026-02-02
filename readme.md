@@ -8,7 +8,31 @@
 	<p>I’ve worked on both national and international projects, often in fast-paced environments with constant process updates.</p> 
 	<p>I’m dynamic, focused, and analytical, always aiming to balance client needs, business goals, and long-term growth.</p>
     <p>II enjoy working in collaborative, inclusive, and data-driven cultures where people have autonomy, clear communication, and space to build together.</p>
-  
+
+  <h2>🛠️ Tech Stack</h2>
+
+  <h3>💻 Languages & Technologies</h3>
+    <p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+     <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+    </p>
+
+<h3>📊 Focus Areas</h3>
+<ul>
+  <li>Data Analysis</li>
+  <li>Data Processing & Metrics</li>
+  <li>Exploratory Data Analysis (EDA)</li>
+  <li>Structured & Clean Code</li>
+  <li>Continuous Learning through Projects</li>
+</ul>
+
+<h3>🌱 Currently Learning</h3>
+<p>
+  Python, SQL, HTML, and CSS with a focus on data-driven solutions and practical applications.
+</p>
+
   <h2>My Strengths</h2>
   <h3>Creative</h3> 
   <p>I consistently look for innovative ways to improve processes, products, and experiences, always considering the health of the company and its clients.</p>
