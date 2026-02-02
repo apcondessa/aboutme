@@ -10,7 +10,7 @@
     <p>II enjoy working in collaborative, inclusive, and data-driven cultures where people have autonomy, clear communication, and space to build together.</p>
   
   <h2>My Strengths</h2>
-  <h3>Creative/h3> 
+  <h3>Creative</h3> 
   <p>I consistently look for innovative ways to improve processes, products, and experiences, always considering the health of the company and its clients.</p>
   <h3>Client Focus</h3>
   <p>Since my first role, I’ve been recognized for acting in the best interest of both clients and the business, building trust and long-term relationships.</p>
