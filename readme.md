@@ -46,7 +46,8 @@
 	 <p>Instagram: https://www.instagram.com/super_lucro/</p>
 
    <h5>📊 Super Lucro — Oct 2019h5>
-   <p>Fictitious company created for a project developed at Gama Academy with the aim of generating pre-qualified leads for the same persona as the chosen startup company, using its own brand. URL: https://www.instagram.com/super_lucro/</p>
+   <p>Fictitious company created for a project developed at Gama Academy with the aim of generating pre-qualified leads for the same persona as the chosen startup company, using its own brand.</p>
+	<p>Instagram: https://www.instagram.com/super_lucro//</p>
 
    <h5>🎓 Stop Bullying — Sep 2018</h5>
    <p>Startup Weekend project aimed at reducing bullying in schools through awareness and prevention initiatives.s</p>
