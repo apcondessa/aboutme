@@ -1,9 +1,8 @@
 <!DOCTYPE html>
 <html lang="pt-br">
 	<head>
-		<img 
-  src="https://raw.githubusercontent.com/apcondessa/About-Ana/Ciência de dados e análise.png"
-  alt="Ciência de Dados e Análise">
+		<img src="https://raw.githubusercontent.com/apcondessa/About-Ana/Ciência de dados e análise.png"
+          alt="Ciência de Dados e Análise">
     <h1>Ana Condessa's about</h1>
   </head>
     <p>Customer Success and Customer Service professional with extensive experience supporting clients in English, Portuguese, and Spanish across multiple companies and international projects.</p>
