@@ -1,19 +1,21 @@
 <!DOCTYPE html>
 <html lang="pt-br">
+<head>
 <img 
   src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGJndGFnYTRhMjJoZTgwcDZua2VycGY5NjdudTNtMHRiaWx2dXpyNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RJVw6tIfb2dIwTHFb0/giphy.gif"
   alt="GIF ilustrativo"
   width="300">
-   
-  <head>
+
+  
 <h1>Ana Condessa's about</h1>
-  </head>
+
     <p>Customer Success and Customer Service professional with extensive experience supporting clients in English, Portuguese, and Spanish across multiple companies and international projects.</p>
 	<p>I’m continuously studying and evolving to stay ahead, especially in data, technology, and process optimization.</p>
 	<p>I’ve worked on both national and international projects, often in fast-paced environments with constant process updates.</p> 
 	<p>I’m dynamic, focused, and analytical, always aiming to balance client needs, business goals, and long-term growth.</p>
     <p>II enjoy working in collaborative, inclusive, and data-driven cultures where people have autonomy, clear communication, and space to build together.</p>
-
+	
+</head>
   <h2>🛠️ Tech Stack</h2>
 
   <h3>💻 Languages & Technologies</h3>
