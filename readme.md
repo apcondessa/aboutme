@@ -2,14 +2,12 @@
 <html lang="pt-br">
 <head>
   <meta charset="UTF-8">
-  <title>Ana Condessa - About</title>
+  <h1>Ana Condessa's about</h1>
 </head>
 
 <body>
 
  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGJndGFnYTRhMjJoZTgwcDZua2VycGY5NjdudTNtMHRiaWx2dXpyNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RJVw6tIfb2dIwTHFb0/giphy.gif" alt="GIF ilustrativo" width="300">
-
-  <h1>Ana Condessa's about</h1>
 
   <p>Customer Success and Customer Service professional with extensive experience supporting clients in English, Portuguese, and Spanish across multiple companies and international projects.</p>
   <p>I’m continuously studying and evolving to stay ahead, especially in data, technology, and process optimization.</p>
