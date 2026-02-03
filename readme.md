@@ -8,7 +8,6 @@
 
   
 <h1>Ana Condessa's about</h1>
-
     <p>Customer Success and Customer Service professional with extensive experience supporting clients in English, Portuguese, and Spanish across multiple companies and international projects.</p>
 	<p>I’m continuously studying and evolving to stay ahead, especially in data, technology, and process optimization.</p>
 	<p>I’ve worked on both national and international projects, often in fast-paced environments with constant process updates.</p> 
