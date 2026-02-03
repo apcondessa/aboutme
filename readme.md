@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html lang="pt-br">
-<head>
+
   <meta charset="UTF-8">
-</head>
+
 
 <body>
 <h1>Ana Condessa's about</h1>
