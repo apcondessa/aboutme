@@ -2,7 +2,7 @@
 <html lang="pt-br">
 	<head>
 		<img 
-  src="https://raw.githubusercontent.com/apcondessa/About-Ana/ciencia-dados-analise.png"
+  src="https://raw.githubusercontent.com/apcondessa/About-Ana/Ciência de dados e análise.png"
   alt="Ciência de Dados e Análise">
     <h1>Ana Condessa's about</h1>
   </head>
