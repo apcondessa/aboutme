@@ -7,11 +7,7 @@
 
 <body>
 
-  <img 
-    src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGJndGFnYTRhMjJoZTgwcDZua2VycGY5NjdudTNtMHRiaWx2dXpyNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RJVw6tIfb2dIwTHFb0/giphy.gif"
-    alt="GIF ilustrativo"
-    width="300"
-  >
+ <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGJndGFnYTRhMjJoZTgwcDZua2VycGY5NjdudTNtMHRiaWx2dXpyNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RJVw6tIfb2dIwTHFb0/giphy.gif" alt="GIF ilustrativo" width="300">
 
   <h1>Ana Condessa's about</h1>
 
